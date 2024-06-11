@@ -26,4 +26,4 @@ To run an app locally, open file `index.html` in the default browser.
 
 [Stefan Stamenkovic](https://www.linkedin.com/in/stefan-stamenkovic-394943254/) - cecibunkin@gmail.com
 
-Project Link: [https://github.com/cecibunkin/Omnifood](https://github.com/cecibunkin/Omnifood)
+Project Link: [https://github.com/cecibunkin/Bankist-App](https://github.com/cecibunkin/Bankist-App)
